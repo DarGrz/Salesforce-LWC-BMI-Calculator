@@ -12,5 +12,5 @@ Salesforce LWC, JS, HTML, CSS, Lightnind Design System
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/jJmS1zG)
+![App Screenshot](https://i.ibb.co/Bnb9SGj/BMI-Calc.png)
 
